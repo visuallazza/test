@@ -9,6 +9,7 @@
 }
 
 .clear {
+    clear: both;
 }
 
 .row {
