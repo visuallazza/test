@@ -1,3 +1,5 @@
-function delate() {
-    var a = document.getElementByID("id");
+'use strict'
+
+function add() {
+  alert("Hallo");
 }
