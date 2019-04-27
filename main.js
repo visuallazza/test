@@ -1,3 +1,5 @@
-<?php
-echo "Hallo";
-?>
+'use strict'
+
+function add() {
+  alert("Hallo");
+}
